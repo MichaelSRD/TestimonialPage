@@ -1,7 +1,6 @@
 import {Sora} from "next/font/google"
 import Image from "next/image";
 import CardTestimonial from "./components/cardTestimonial";
-import {Star} from "lucide-react"
 const sora = Sora({
   subsets: ['latin']
 })
